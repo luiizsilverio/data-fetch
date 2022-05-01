@@ -1,7 +1,8 @@
 {
   "name": "data-fetch",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": "Luiz Oliveira <luiiz.silverio@gmail.com>",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
