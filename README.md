@@ -7,7 +7,7 @@
 * [Contato](#email-contato)
 
 ## Sobre o projeto
-Trata-se de um pequeno projeto desenvolvido em React com React-Query, durante a aula [Consumo de APIs RESTful no React da maneira certa](https://www.youtube.com/watch?v=uNFB9EbQz90&list=PL85ITvJ7FLoiBxfZFZSUYBqrCs8khA_I8&index=11), do prof. Diego Fernandes.<br />
+Trata-se de um pequeno projeto desenvolvido em React com __React-Query__, durante a aula [Consumo de APIs RESTful no React da maneira certa](https://www.youtube.com/watch?v=uNFB9EbQz90&list=PL85ITvJ7FLoiBxfZFZSUYBqrCs8khA_I8&index=11), do prof. Diego Fernandes.<br />
 Acessa a API do Github utilizando o recurso de cache do React-Query.<br />
 
 ## :hammer_and_wrench: Tecnologias
